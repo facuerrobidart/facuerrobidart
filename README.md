@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Facundo Errobidart!
-Fullstack developer and Software Engineering student at Mar del Plata National University.
-I'm familiar with Java (Spring), React, typescript, JPA, postgresSQL, and AWS services.
-I'm also proficient in C.
+- Software Engineer with 4YOE.
+- Proficient in Java and Kotlin.
+- Currently getting my Systems Engineering Degree at Universidad Nacional de Mar del Plata
 
 
